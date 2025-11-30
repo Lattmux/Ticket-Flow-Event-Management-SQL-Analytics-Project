@@ -65,3 +65,12 @@ This project demonstrates my ability to:
 ✔ Write clean and structured SQL scripts
 ✔ Use SQL to solve real operational challenges
 ✔ Think strategically like a data analyst
+
+## Author
+Abdullateef Abduleasaq - Data Analyst
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/abdulrasaq-abdullateef-1051b6350)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:abdullateefabdulrasaq80@gmail.com)
+
+
